@@ -1,5 +1,5 @@
-name,age
-Luiz,21
-Peterson,23
-Augusto,48
-Brian,11
+name,age,salary
+Luiz,21,500
+Peterson,23,1500
+Augusto,48,2000
+Brian,11,1000
